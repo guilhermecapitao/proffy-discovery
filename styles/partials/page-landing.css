@@ -84,9 +84,13 @@
   margin-left: 0.8rem;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 1100px) {
   :root {
-    font-size: 40%;
+    font-size: 38%;
+  }
+
+  .logo-container img {
+    height: 7rem;
   }
 }
 
