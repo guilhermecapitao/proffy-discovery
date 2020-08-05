@@ -13,9 +13,9 @@
 
 ## 🖥 Preview 
 
-<h1>
-  <img src="https://ik.imagekit.io/capitao/Proffy/preview_9WT1Wt2Jz.png">
-</h1>
+<p align="center">
+  <img src="https://ik.imagekit.io/capitao/Proffy/preview_9WT1Wt2Jz.png" width="700" >
+</p>
 
 ---
 
