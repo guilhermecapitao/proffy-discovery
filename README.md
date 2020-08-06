@@ -34,8 +34,9 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-- <s>Node.js</s> (próximas aulas 🚧)
-- <s>Nunjucks</s> (próximas aulas 🚧)
+- Node.js 
+- Nunjucks 
+- <s>SQLite</s> (próximas aulas 🚧)
 
 --- 
 
@@ -47,9 +48,15 @@ git clone https://github.com/guilhermecapitao/proffy-discovery
 
 # Entrar no diretório
 cd proffy-discovery
+
+# Baixar as dependências
+npm install
+
+# Executar o servidor
+npm run dev
 ```
 
-Pode usar qualquer extensão ou ferramenta no seu editor para criar um servidor local, como por exemplo o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 ---
 
