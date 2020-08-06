@@ -1,0 +1,27 @@
+{
+  "name": "proffy-discovery",
+  "version": "1.0.0",
+  "description": "<h3 align=\"center\">   *🚧 Em construção 🚧* </h3>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermecapitao/proffy-discovery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermecapitao/proffy-discovery/issues"
+  },
+  "homepage": "https://github.com/guilhermecapitao/proffy-discovery#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
