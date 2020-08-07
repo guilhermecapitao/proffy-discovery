@@ -1,6 +1,12 @@
-<h3 align="center">
-  *🚧 Em construção 🚧*
-</h3>
+<p align="center">
+  <img src="https://ik.imagekit.io/capitao/Proffy/nlw2_6d7PvlHZ5.svg" width="150" >
+</p>
+
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/network)
+
+</div>
 
 ## 📋 Índice
 
@@ -36,7 +42,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - JavaScript
 - Node.js 
 - Nunjucks 
-- <s>SQLite</s> (próximas aulas 🚧)
+- SQLite 
 
 --- 
 
@@ -50,7 +56,7 @@ git clone https://github.com/guilhermecapitao/proffy-discovery
 cd proffy-discovery
 
 # Baixar as dependências
-npm install
+npm i
 
 # Executar o servidor
 npm run dev
@@ -59,7 +65,6 @@ npm run dev
 Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 ---
-
 
 
 Desenvolvido com 💜 por Guilherme Capitão
